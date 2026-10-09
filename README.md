@@ -6,4 +6,4 @@
   </a>
 </p>
 
-<p>![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RemusRigo&size_weight=0.5&count_weight=0.5&hide_title=0&langs_count=20)</p>
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RemusRigo&size_weight=0.5&count_weight=0.5&hide_title=0&langs_count=20)
