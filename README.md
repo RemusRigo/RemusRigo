@@ -5,3 +5,5 @@
     <img src="https://skillicons.dev/icons?i=debian,kali,linux,mint,redhat,ubuntu,windows" />
   </a>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RemusRigo&size_weight=0.5&count_weight=0.5)
